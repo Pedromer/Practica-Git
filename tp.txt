@@ -1,2 +1,2 @@
-pedro es tonto
+pedro
 Hola esto es una modificacion de tp.txt hecha por pedro :)
